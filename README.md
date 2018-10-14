@@ -1,6 +1,6 @@
 # setting up gulp starter code
 
-at this repo you will find the complet files and setup you need when you want to use gulp to build a website
+at this repository you will find the complete files and setup you need when you want to use gulp to build a website
 ```
 https://gulpjs.com/
 npm install gulp-cli -g
