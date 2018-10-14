@@ -1,0 +1,27 @@
+{
+  "name": "gulp-starter-code",
+  "version": "1.0.0",
+  "description": "setup for the gulp dependances\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cand gulp \u001b[C\u001bdependances",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "autoprefixer": "^9.1.5",
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoElwekil/Gulp-Starter-Code.git"
+  },
+  "author": "Mohamed Elwekil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoElwekil/Gulp-Starter-Code/issues"
+  },
+  "homepage": "https://github.com/MoElwekil/Gulp-Starter-Code#readme"
+}
