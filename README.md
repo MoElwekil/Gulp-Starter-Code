@@ -33,3 +33,25 @@ npm i gulp-autoprefixer
 https://browsersync.io/
 npm install browser-sync
 ```
+
+4: installing eslint
+
+```
+https://www.npmjs.com/package/eslint
+npm install eslint --save-dev
+eslint --init
+```
+
+5: installing concat
+
+```
+https://www.npmjs.com/package/gulp-concat
+npm i gulp-concat
+```
+
+6: installing uglify
+
+```
+https://www.npmjs.com/package/gulp-uglify
+npm i gulp-uglify
+```
