@@ -55,3 +55,9 @@ npm i gulp-concat
 https://www.npmjs.com/package/gulp-uglify
 npm i gulp-uglify
 ```
+
+7: to run a PHP project you will need to download gulp connect php + The PHP language @ your PC
+```
+https://windows.php.net/
+https://www.npmjs.com/package/gulp-connect-php
+```
