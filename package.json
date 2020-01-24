@@ -4,12 +4,13 @@
   "description": "setup for the gulp dependances\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cand gulp \u001b[C\u001bdependances",
   "main": "gulpfile.js",
   "dependencies": {
-    "autoprefixer": "^9.1.5",
-    "browser-sync": "^2.26.3",
-    "eslint-plugin-react": "^7.11.1",
+    "autoprefixer": "^9.7.4",
+    "browser-sync": "^2.26.7",
+    "eslint-plugin-react": "^7.18.0",
     "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^6.0.0",
+    "gulp-autoprefixer": "^6.1.0",
     "gulp-concat": "^2.6.1",
+    "gulp-connect-php": "^1.0.3",
     "gulp-eslint": "^5.0.0",
     "gulp-sass": "^4.0.2"
   },

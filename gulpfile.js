@@ -33,7 +33,7 @@ gulp.task('default', ['styles', 'js', 'lint', 'copy-html', 'copy-images', 'copy-
 	// });
 }); // end gulp Default setup
 
-gulp.task('connect-sync', function() {
+gulp.task('sync', function() {
 	connect.server({}, function() {
 		gulp.watch('sass/**/*.scss', ['styles']).on('change', browserSync.reload);
 		gulp.watch('js-production/**/*.js', ['js']).on('change', browserSync.reload);
@@ -120,7 +120,7 @@ gulp.task('copy-images', function() {
 });
 
 // copy parts
-gulp.task('copy-parts', function() {
-	gulp.src('parts/**/*')
-		.pipe(gulp.dest('dist/parts'));
+gulp.task('copy-inc', function() {
+	gulp.src('inc/**/*')
+		.pipe(gulp.dest('dist/inc'));
 });
